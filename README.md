@@ -14,19 +14,19 @@ Este proyecto tiene como objetivo visualizar de manera efectiva los delitos y la
 ## Visualizaciones
 
 ### Clusterización de Delitos por Comuna
-![Clusterización de Delitos por Comuna](./results/Clusterización_Delitos_Comunas.png)
+![Clusterización de Delitos por Comuna](./Clusterización_Delitos_Comunas.png)
 
-### Distribución Normalizada de Delitos por Comuna (Columnas Apiladas)
-![Distribución Normalizada de Delitos](./results/Columnas_Apiladas_Delitos.png)
+### Distribución Normalizada de Delitos por Comuna
+![Distribución Normalizada de Delitos](./Columnas_Apiladas_Delitos.png)
 
 ### Distribución Normalizada de Niveles Educativos por Comuna
-![Distribución Normalizada de Niveles Educativos](./results/Columnas_Apiladas_educación.png)
+![Distribución Normalizada de Niveles Educativos](./Columnas_Apiladas_educación.png)
 
 ### Mapa Coropletas del Porcentaje de Delitos por Comuna en Santiago
-![Mapa Coropletas del Porcentaje de Delitos](./results/Coropletas_Porcentaje_Delitos.png)
+![Mapa Coropletas del Porcentaje de Delitos](./Coropletas_Porcentaje_Delitos.png)
 
 ### Mapa de Calor de la Correlación entre Educación y Delitos por Comuna
-![Mapa de Calor de la Correlación](./results/Correlación.png)
+![Mapa de Calor de la Correlación](./Correlación.png)
 
 ### Mapa de Calor de Delitos por Comuna
-![Mapa de Calor de Delitos](./results/MapaDeCalor_Comunas.png)
+![Mapa de Calor de Delitos](./MapaDeCalor_Comunas.png)
